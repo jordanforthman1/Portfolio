@@ -1,3 +1,5 @@
+# This program accepts chess board placements and determines if they constitute a valid chess board
+
 import operator
 
 def checkBpawn(board):
