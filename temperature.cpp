@@ -1,3 +1,5 @@
+// These definitions give the user options in creating temperature objects and allow functions such as conversion to different scale or conmparison between scales.
+
 #include <iostream>
 #include <iomanip>
 #include <cmath>
