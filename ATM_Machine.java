@@ -1,7 +1,5 @@
 /* 
 Jordan Forthman
-HW8_2
-10/29/2021
 This program creates 10 dynamic bank accounts for user.
 */
 
