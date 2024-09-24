@@ -1,7 +1,5 @@
-/*
-Jordan Forthman
-This program predicts future value using monthly investment, interest rate and years.
-*/
+//This program predicts future value using monthly investment, interest rate and years.
+
 
 import java.util.*;
 import java.text.*;
