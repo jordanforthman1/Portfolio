@@ -1,7 +1,4 @@
-/* 
-Jordan Forthman
-This program creates 10 dynamic bank accounts for user.
-*/
+//This program creates 10 dynamic bank accounts for user.
 
 import java.util.Scanner;
 public class ATM_Machine {
