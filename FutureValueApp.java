@@ -1,7 +1,5 @@
 /*
 Jordan Forthman
-COP 2800 HW11_2
-11/18/21
 This program predicts future value using monthly investment, interest rate and years.
 */
 
