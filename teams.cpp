@@ -1,13 +1,9 @@
 /*Name: Jordan Forthman
-Date: 7/28/24
-Assignment: HW 8
-Due Date: 7/30/24
 About this project: Program prompts user for file containing team data. Program then offers user a menu of options that will
 display information about teams including their records, playoff status, win/loss differentials, filter teams by number of wins
 as well as sorting teams based on their win/loss records.
 Assumptions: Program assumes files will be correctly formatted for data gathering.
-
-All work below was performed by Jordan Forthman*/
+*/
 
 #include <iostream>
 #include <iomanip>
