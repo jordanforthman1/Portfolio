@@ -1,7 +1,4 @@
 /*Name: Jordan Forthman
-Date: 7/2/24
-Assignment: Homework 5
-Due Date: 7/3/24
 About this project: This project offers users a menu of options including 3 playable games, an 
 option to view their game statistics, an option to reset their game statistics and an option to exit
 the program entirely. Guess The Number is where users will have 6 attempts to 
