@@ -1,3 +1,5 @@
+# This program creates a calculator widget using tkinter in python
+
 import tkinter as tk
 from tkinter import messagebox
 
