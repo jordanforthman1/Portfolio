@@ -1,5 +1,4 @@
-/*Name: Jordan Forthman
-About this project: This project offers users a menu of options including 3 playable games, an 
+/*This project offers users a menu of options including 3 playable games, an 
 option to view their game statistics, an option to reset their game statistics and an option to exit
 the program entirely. Guess The Number is where users will have 6 attempts to 
 select a randomly generated number between 1 and 100, in a hot or cold format the game tells
